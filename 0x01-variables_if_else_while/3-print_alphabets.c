@@ -14,19 +14,16 @@ int main(void)
 
 	for (; x <= 'z'; x++)
 	{
-			putchar(x);
+	putchar(x);
 
 	}
 	y = 'A';
 
 	for (; y <= 'Z'; y++)
 	{
-			putchar(y);
+	putchar(y);
 
 	}
-
-
 	putchar('\n');
-
 	return (0);
 }
