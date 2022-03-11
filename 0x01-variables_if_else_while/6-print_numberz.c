@@ -8,6 +8,7 @@
 int main(void)
 {
 	int x;
+
 	x = '0';
 
 	for (; x <= '9'; x++)
