@@ -2,7 +2,7 @@
 
 
 /**
- * main- wher the c program starts
+ * main - Where programs are executed
  * return: 0
  */
 
