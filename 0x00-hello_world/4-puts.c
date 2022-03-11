@@ -2,7 +2,8 @@
 
 
 /**
- * main - Where programs are executed
+ * main - Entry point
+ *
  * return: 0
  */
 
