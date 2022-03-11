@@ -14,14 +14,9 @@ int main(void)
 	for (; x >= 'a'; x--)
 	{
 
-
-			putchar(x);
+	putchar(x);
 
 	}
 	putchar('\n');
-
 	return (0);
-
-
-
 }
