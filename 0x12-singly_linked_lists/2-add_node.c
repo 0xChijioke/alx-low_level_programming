@@ -1,11 +1,11 @@
 #include "lists.h"
 #include <string.h>
 /**
- *  * _strlen - returns the length of a string.
- *   * @s: character value.
- *    *
- *     *Return: i value
- *      */
+ * _strlen - returns the length of a string.
+ * @s: character value.
+ *
+ *Return: i value
+ */
 int _strlen(const char *s)
 {
 	int i;
